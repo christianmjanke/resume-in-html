@@ -37,7 +37,8 @@ Esse repositório foi desenvolvido para mostrar o que aprendi usando HTML e CSS,
     // Acessar diretório.
     $ cd resume-in-html
 
-    // Abrir o arquivo em seu navegador usando Live Server
+    // Abrir o arquivo em seu navegador usando live server.
+    $ Alt+L Alt+O
 ```
 
 ---
@@ -49,6 +50,6 @@ Esse repositório foi desenvolvido para mostrar o que aprendi usando HTML e CSS,
 
 ---
 
-![image]()
+![image](https://i.imgur.com/wMiJYJ6.png)
 
 <h3 align="center"> Desenvolvido por Christian Medeiros</h3>

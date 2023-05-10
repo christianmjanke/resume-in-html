@@ -1,0 +1,52 @@
+* {
+  font-family: "Merriweather", serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 1rem;
+  gap: 7rem;
+  flex-wrap: wrap;
+}
+
+#content p {
+  font-size: 12px;
+  color: gray;
+}
+#content h4 {
+  font-size: 14px;
+}
+
+#content {
+  max-width: 30%;
+}
+#content a {
+  text-decoration: none;
+  color: rgb(6, 111, 248);
+  text-decoration: underline;
+}
+
+.projectsCreated {
+  margin: 2rem 0;
+}
+
+#sidebar {
+  max-width: 15rem;
+}
+
+#sidebar h3 {
+  font-size: 14px;
+}
+#sidebar p {
+  font-size: 13px;
+}
+#sidebar a {
+  text-decoration: none;
+  color: rgb(6, 111, 248);
+  text-decoration: underline;
+}
+
+#contacts p {
+  font-size: 14px;
+}

@@ -46,7 +46,7 @@ Esse repositório foi desenvolvido para mostrar o que aprendi usando HTML e CSS,
 ## ☑️ Aprendizado
 
 [✅] HTML = Reforçando o conhecimento nas tags <br/>
-[✅] CSS = Reforçando o conhecimento na estilizacao<br/>
+[✅] CSS = Reforçando o conhecimento na estilização<br/>
 
 ---
 

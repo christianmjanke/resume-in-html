@@ -45,11 +45,11 @@ Esse repositório foi desenvolvido para mostrar o que aprendi usando HTML e CSS,
 
 ## ☑️ Aprendizado
 
-[✅] HTML = reforcando o conhecimento nas tags <br/>
-[✅] CSS = reforcando o conhecimento na estilizacao<br/>
+[✅] HTML = Reforçando o conhecimento nas tags <br/>
+[✅] CSS = Reforçando o conhecimento na estilizacao<br/>
 
 ---
 
 ![image](https://i.imgur.com/wMiJYJ6.png)
 
-<h3 align="center"> Desenvolvido por Christian Medeiros</h3>
+<h4 align="center"> Desenvolvido por Christian Medeiros</h4>

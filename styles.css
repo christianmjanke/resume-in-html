@@ -22,6 +22,7 @@ body {
   max-width: 30%;
 }
 #content a {
+  font-weight: 100;
   text-decoration: none;
   color: rgb(6, 111, 248);
   text-decoration: underline;

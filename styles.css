@@ -1,10 +1,9 @@
 * {
   font-family: "Merriweather", serif;
 }
-body {
+#container {
   display: flex;
   justify-content: center;
-  margin: 0;
   padding: 1rem;
   gap: 7rem;
   flex-wrap: wrap;
@@ -21,8 +20,9 @@ body {
 #content {
   max-width: 30%;
 }
+
 #content a {
-  font-weight: 100;
+  font-weight: 400;
   text-decoration: none;
   color: rgb(6, 111, 248);
   text-decoration: underline;
@@ -50,4 +50,20 @@ body {
 
 #contacts p {
   font-size: 14px;
+}
+
+
+@media (max-width: 800px) {
+  #container {
+    justify-content: start;
+    gap: 0;
+  }
+  #content {
+    max-width: 100%;
+
+  }
+  #sidebar {
+  max-width: 100%;
+
+  }
 }
